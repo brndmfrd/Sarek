@@ -1,0 +1,15 @@
+C:\Users\bryan\Documents\GitHub\PathfinderPC\src\Sarek\Sarek\bin\Debug\Sarek.exe.config
+C:\Users\bryan\Desktop\Sarek\Sarek\bin\Debug\Sarek.exe.config
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\MainWindow.baml
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\MainWindow.g.cs
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\App.g.cs
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek_MarkupCompile.cache
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.g.resources
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.Properties.Resources.resources
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.csproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\Sarek\Sarek\bin\Debug\Sarek.exe
+C:\Users\bryan\Desktop\Sarek\Sarek\bin\Debug\Sarek.pdb
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.exe
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.pdb
+C:\Users\bryan\Desktop\Sarek\Sarek\obj\Debug\Sarek.FormController.ParentForm.resources

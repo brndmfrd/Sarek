@@ -1,0 +1,23 @@
+﻿<Window x:Class="Sarek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="350" Width="518" WindowStyle="None" ResizeMode="NoResize" 
+        MouseDown="Window_MouseDown" BorderBrush="Azure" BorderThickness=".5" Topmost="True">
+    
+    <Grid Background="#FF1D1C1C">
+        <Label x:Name="Text" Content="Sign in" Visibility="Visible" Margin="75,135,80,139" Foreground="#FFB59A05" FontSize="24" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Century Gothic" />
+        <TextBox x:Name="txt_name" HorizontalAlignment="Left" Height="23" Margin="180,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txt_name_TextChanged" ToolTip="Bronco Net ID" Opacity="0.905" TabIndex="1"/>
+        <TextBox x:Name="txtbx_report" HorizontalAlignment="Left" Height="104" Margin="35,181,0,0" TextWrapping="Wrap" Text="&gt;" VerticalAlignment="Top" Width="440" FontFamily="Khmer UI" Opacity="0.5" IsReadOnly="True"/>
+        <Button x:Name="bttn_sign_in" Content="Sign In" HorizontalAlignment="Left" Height="22" Margin="320,58,0,0" VerticalAlignment="Top" Width="71" Click="bttn_sign_in_Click" IsEnabled="True" Background="#FFB49905" FontFamily="Monotype Corsiva" FontSize="14" Focusable="False" TabIndex="3" IsDefault="True"/>
+        <Button x:Name="bttn_sign_out" Content="Sign Out" HorizontalAlignment="Left" Height="22" Margin="320,86,0,0" VerticalAlignment="Top" Width="71" Click="bttn_sign_out_Click" IsEnabled="False" Background="#FFB49905" FontFamily="Monotype Corsiva" FontSize="14" Focusable="False" TabIndex="4"/>
+        <PasswordBox x:Name="txt_pass" HorizontalAlignment="Left" Margin="180,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.1,-1.65" Width="120" ToolTip="Password" Opacity="0.9" Height="22" TabIndex="2"/>
+        <Image Source="/Images/logo.png" Visibility="Hidden" RenderTransformOrigin="0.5,0.5" Margin="-67,-30,255,103" Width="322" Height="242">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="0.5" ScaleY="0.5"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="bttn_OK" Content="Hide Window" HorizontalAlignment="Left" Margin="320,113,0,0" VerticalAlignment="Top" Width="100" Click="bttn_OK_Click" FontFamily="Monotype Corsiva" FontSize="14" Focusable="False" TabIndex="5"/>
+    </Grid>
+</Window>

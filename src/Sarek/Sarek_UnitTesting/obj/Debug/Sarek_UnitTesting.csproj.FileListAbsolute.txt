@@ -1,0 +1,7 @@
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\bin\Debug\Sarek_UnitTesting.dll
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\bin\Debug\Sarek_UnitTesting.pdb
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\bin\Debug\Sarek.exe
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\bin\Debug\Sarek.pdb
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\obj\Debug\Sarek_UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\obj\Debug\Sarek_UnitTesting.dll
+C:\Users\bryan\Desktop\Sarek\Sarek_UnitTesting\obj\Debug\Sarek_UnitTesting.pdb
